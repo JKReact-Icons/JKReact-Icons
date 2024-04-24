@@ -17,5 +17,7 @@ export { default as OneNumberSqureOutLine } from './Bootstrap/outline/OneNumberS
 export { default as LogoAlexa } from './Bootstrap/logos/LogoAlexa';
 export { default as LogoAlipay } from './Bootstrap/logos/LogoAlipay';
 export { default as LogoAmazon } from './Bootstrap/logos/LogoAmazon';
+export { default as LogoAmd } from './Bootstrap/logos/LogoAmd';
+
 
 // ---------------------- Bootestap END -------------------------
