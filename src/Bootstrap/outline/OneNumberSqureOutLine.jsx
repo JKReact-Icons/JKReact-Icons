@@ -1,7 +1,7 @@
 // 1 circle fill
 import React from 'react';
 
-const OneNumberSqureFill = ({ color, size }) => {
+const OneNumberFill = ({ color, size }) => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -15,5 +15,5 @@ const OneNumberSqureFill = ({ color, size }) => {
   );
 };
 
-export default OneNumberSqureFill;
+export default OneNumberFill;
 
