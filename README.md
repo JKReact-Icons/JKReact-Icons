@@ -82,6 +82,7 @@ export default IconTest
 ### Logos Bootstrap
 
 | Icons | Description |
+|--------|--------|
 | `<LogoAlexa />` | One number Squre Outline |
 | `<LogoAlipay />` | One number Squre Outline |
 | `<LogoAmazon />` | One number Squre Outline |
