@@ -90,3 +90,10 @@ export default IconTest
 | `<LogoAmazon />` | Logo Amazon |
 | `<LogoAmd />` | Logo Amd |
 
+
+
+## Versioning of the project :grey_question:
+
+| Version | Description | Release Date|
+|--------|--------|---------|
+| v1.0.0 | initial release of the Project, Adding Butttons | 18 April 2024 |
