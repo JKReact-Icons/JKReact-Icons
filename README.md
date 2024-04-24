@@ -103,3 +103,11 @@ export default IconTest
 | Version | Description | Release Date|
 |--------|--------|---------|
 | v1.0.0 | initial release of the Project, Adding Bootstrap Icons (Icons, Logos) | 25 April 2024 |
+
+## Developers and Designers
+
+- JehanKandy (BackendExpert)
+
+## License Copyright
+
+- The React-JKCSS is Licensed under [MIT](https://github.com/React-JKCSS/ReactJKCSS/blob/master/LICENSE)
