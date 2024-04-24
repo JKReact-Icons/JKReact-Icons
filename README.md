@@ -106,7 +106,7 @@ export default IconTest
 
 ## Developers and Designers
 
-- JehanKandy [Github](BackendExpert)
+- JehanKandy [Github](https://github.com/BackendExpert)
 
 - Anupa Gamage [Github](BackendExpert)
 
