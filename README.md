@@ -62,6 +62,14 @@ export default IconTest
 
 ```
 
+- in Above Code
+
+``` jsx 
+    <LogoAmd color={"red"} size={200} />
+```
+- color must be string
+- size should be int
+
 ## Documentation :notebook:
 
 ## Icons
