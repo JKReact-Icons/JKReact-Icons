@@ -19,7 +19,3 @@ const ZeroNumberOutLine = ({ color, size }) => {
 export default ZeroNumberOutLine;
 
 
-<svg xmlns="" width="16" height="16" fill="currentColor" class="bi bi-0-circle" viewBox="0 0 16 16">
-
-</svg>
-
