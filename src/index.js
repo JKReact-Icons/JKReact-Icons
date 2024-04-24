@@ -7,8 +7,6 @@ export { default as OneNumberFill } from './Bootstrap/Fill/OneNumberFill';
 export { default as OneNumberSqureFill } from './Bootstrap/Fill/OneNumberSqureFill';
 export { default as OneTwoThree } from './Bootstrap/Fill/OneTwoThree';
 
-
-
 // outline Bootestrap
 export { default as ZeroNumberOutLine } from './Bootstrap/outline/ZeroNumberOutLine';
 export { default as ZeroNumberSqureOutLine } from './Bootstrap/outline/ZeroNumberSqureOutLine';
