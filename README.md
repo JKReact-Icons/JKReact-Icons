@@ -83,8 +83,8 @@ export default IconTest
 
 | Icons | Description |
 |--------|--------|
-| `<LogoAlexa />` | One number Squre Outline |
-| `<LogoAlipay />` | One number Squre Outline |
-| `<LogoAmazon />` | One number Squre Outline |
-| `<LogoAmd />` | One number Squre Outline |
+| `<LogoAlexa />` | Logo Alexa |
+| `<LogoAlipay />` | Logo Alipay |
+| `<LogoAmazon />` | Logo Amazon |
+| `<LogoAmd />` | Logo Amd |
 
