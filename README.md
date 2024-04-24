@@ -64,6 +64,8 @@ export default IconTest
 
 ## Documentation :notebook:
 
+## Bootstrap
+
 ### Icons Bootstrap
 
 | Icons | Description |
