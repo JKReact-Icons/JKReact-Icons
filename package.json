@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/JKReact-Icons/JKReact-Icons/issues"
   },
-  "homepage": "https://github.com/JKReact-Icons/JKReact-Icons#readme"
+  "homepage": "https://github.com/JKReact-Icons/JKReact-Icons#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
 }
