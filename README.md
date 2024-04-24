@@ -7,7 +7,7 @@
 
 <hr>
 
-## About React-JKCSS :heart:
+## About JKReact-Icons :heart:
 
 - First Icons support for React that developed in Sri Lanka
 - - parallelly develop with [JKCSS](https://github.com/JKCSS-CSS-Framework) 
