@@ -4,6 +4,8 @@
 export { default as ZeroNumberFill } from './Bootstrap/Fill/ZeroNumberFill';
 export { default as ZeroNumberSqureFill } from './Bootstrap/Fill/ZeroNumberSqureFill';
 export { default as OneNumberFill } from './Bootstrap/Fill/OneNumberFill';
+export { default as OneNumberSqureFill } from './Bootstrap/Fill/OneNumberSqureFill';
+
 
 
 // outline Bootestrap
