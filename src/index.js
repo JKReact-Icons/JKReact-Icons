@@ -15,7 +15,7 @@ export { default as OneNumberSqureOutLine } from './Bootstrap/outline/OneNumberS
 
 // Logo Bootstrap
 export { default as LogoAlexa } from './Bootstrap/logos/LogoAlexa';
-
+export { default as LogoAlipay} from './Bootstrap/logos/LogoAlipay';
 
 
 // ---------------------- Bootestap END -------------------------
