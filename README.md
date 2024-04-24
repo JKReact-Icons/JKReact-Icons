@@ -108,7 +108,7 @@ export default IconTest
 
 - JehanKandy [Github](https://github.com/BackendExpert)
 
-- Anupa Gamage [Github](BackendExpert)
+- Anupa Gamage [Github](https://github.com/Anupa1998)
 
 
 ## License Copyright
