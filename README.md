@@ -12,3 +12,15 @@
 - First Icons support for React that developed in Sri Lanka
 - - parallelly develop with [JKCSS](https://github.com/JKCSS-CSS-Framework) 
 
+## Quick Start Guide :computer:
+
+- In Your React js Project
+- open Terminal and install `@jehankandy/jkreact-icons`
+
+``` js
+
+    npm i @jehankandy/jkreact-icons
+
+``` 
+
+- follow up following code
