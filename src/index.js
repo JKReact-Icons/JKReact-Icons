@@ -1,4 +1,4 @@
-// ---------------------- Bootestap Start-------------------------
+// ---------------------- Bootestap Start -------------------------
 
 // Fill Bootstrap Fill
 export { default as ZeroNumberFill } from './Bootstrap/Fill/ZeroNumberFill';
@@ -13,4 +13,4 @@ export { default as ZeroNumberSqureOutLine } from './Bootstrap/outline/ZeroNumbe
 export { default as OneNumberOutline } from './Bootstrap/outline/OneNumberOutline';
 export { default as OneNumberSqureOutLine } from './Bootstrap/outline/OneNumberSqureOutLine';
 
-// ---------------------- Bootestap END-------------------------
+// ---------------------- Bootestap END -------------------------
