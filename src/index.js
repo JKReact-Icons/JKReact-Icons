@@ -13,4 +13,9 @@ export { default as ZeroNumberSqureOutLine } from './Bootstrap/outline/ZeroNumbe
 export { default as OneNumberOutline } from './Bootstrap/outline/OneNumberOutline';
 export { default as OneNumberSqureOutLine } from './Bootstrap/outline/OneNumberSqureOutLine';
 
+// Logo Bootstrap
+export { default as LogoAlexa } from './Bootstrap/logos/LogoAlexa';
+
+
+
 // ---------------------- Bootestap END -------------------------
