@@ -106,7 +106,10 @@ export default IconTest
 
 ## Developers and Designers
 
-- JehanKandy (BackendExpert)
+- JehanKandy [Github](BackendExpert)
+
+- Anupa Gamage [Github](BackendExpert)
+
 
 ## License Copyright
 
