@@ -11,7 +11,10 @@
     "url": "git+https://github.com/JKReact-Icons/JKReact-Icons.git"
   },
   "keywords": [
-    "React"
+    "React",
+    "JKReact",
+    "React-Icons",
+    "Icons-for-React"
   ],
   "author": "JehanKandy",
   "license": "MIT",
