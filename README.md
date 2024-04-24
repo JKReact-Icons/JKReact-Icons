@@ -44,7 +44,7 @@ import {
      LogoAmazon,
      LogoAmd
 
-} from 'react-icons';
+} from '@jehankandy/jkreact-icons';
 
 const IconTest = () => {
   return (
