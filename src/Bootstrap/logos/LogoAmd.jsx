@@ -1,4 +1,4 @@
-// LogoAmazon
+// LogoAmd
 import React from 'react';
 
 const LogoAmd = ({ color, size }) => {
