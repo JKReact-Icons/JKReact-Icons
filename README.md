@@ -64,6 +64,8 @@ export default IconTest
 
 ## Documentation :notebook:
 
+### Icons Bootstrap
+
 | Icons | Description |
 |--------|--------|
 | `<ZeroNumberFill />` | Zero number Fill |
@@ -75,3 +77,13 @@ export default IconTest
 | `<ZeroNumberSqureOutLine />` | Zero number Squre Outline |
 | `<OneNumberOutline />` | One number Outline |
 | `<OneNumberSqureOutLine />` | One number Squre Outline |
+
+
+### Logos Bootstrap
+
+| Icons | Description |
+| `<LogoAlexa />` | One number Squre Outline |
+| `<LogoAlipay />` | One number Squre Outline |
+| `<LogoAmazon />` | One number Squre Outline |
+| `<LogoAmd />` | One number Squre Outline |
+
