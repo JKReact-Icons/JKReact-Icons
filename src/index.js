@@ -6,14 +6,12 @@ export { default as ZeroNumberSqureFill } from './Bootstrap/Fill/ZeroNumberSqure
 export { default as OneNumberFill } from './Bootstrap/Fill/OneNumberFill';
 export { default as OneNumberSqureFill } from './Bootstrap/Fill/OneNumberSqureFill';
 export { default as OneTwoThree } from './Bootstrap/Fill/OneTwoThree';
-
 export { default as TwoNumberFill } from './Bootstrap/Fill/TwoNumberFill';
 export { default as TwoNumberSqureFill } from './Bootstrap/Fill/TwoNumberSqureFill';
 export { default as ThreeNumberFill } from './Bootstrap/Fill/ThreeNumberFill';
 export { default as ThreeNumberSqureFill } from './Bootstrap/Fill/ThreeNumberSqureFill';
 export { default as FourNumberFill } from './Bootstrap/Fill/FourNumberFill';
 export { default as FourNumberSqureFill } from './Bootstrap/Fill/FourNumberSqureFill';
-
 export { default as FiveNumberFill } from './Bootstrap/Fill/FiveNumberFill';
 export { default as FiveNumberSqureFill } from './Bootstrap/Fill/FiveNumberSqureFill';
 export { default as SixNumberFill } from './Bootstrap/Fill/SixNumberFill';
@@ -31,14 +29,12 @@ export { default as ZeroNumberOutLine } from './Bootstrap/outline/ZeroNumberOutL
 export { default as ZeroNumberSqureOutLine } from './Bootstrap/outline/ZeroNumberSqureOutLine';
 export { default as OneNumberOutline } from './Bootstrap/outline/OneNumberOutline';
 export { default as OneNumberSqureOutLine } from './Bootstrap/outline/OneNumberSqureOutLine';
-
 export { default as TwoNumberOutline } from './Bootstrap/outline/TwoNumberOutline';
 export { default as TwoNumberSqureOutline } from './Bootstrap/outline/TwoNumberSqureOutline';
 export { default as ThreeNumberOutline } from './Bootstrap/outline/ThreeNumberOutline';
 export { default as ThreeNumberSqureOutline } from './Bootstrap/outline/ThreeNumberSqureOutline';
 export { default as FourNumberOutline } from './Bootstrap/outline/FourNumberOutline';
 export { default as FourNumberSqureOutline } from './Bootstrap/outline/FourNumberSqureOutline';
-
 export { default as FiveNumberOutline } from './Bootstrap/outline/FiveNumberOutline';
 export { default as FiveNumberSqureOutline } from './Bootstrap/outline/FiveNumberSqureOutline';
 export { default as SixNumberOutline } from './Bootstrap/outline/SixNumberOutline';
