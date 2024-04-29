@@ -179,5 +179,5 @@ export default IconTest
 
 ## License Copyright
 
-- The React-JKCSS is Licensed under [MIT](https://github.com/JKReact-Icons/JKReact-Icons/blob/master/LICENSE)
+- The JKReact-ICONS is Licensed under [MIT](https://github.com/JKReact-Icons/JKReact-Icons/blob/master/LICENSE)
 
