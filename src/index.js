@@ -14,6 +14,9 @@ export { default as ThreeNumberSqureFill } from './Bootstrap/Fill/ThreeNumberSqu
 export { default as FourNumberFill } from './Bootstrap/Fill/FourNumberFill';
 export { default as FourNumberSqureFill } from './Bootstrap/Fill/FourNumberSqureFill';
 
+export { default as FiveNumberFill } from './Bootstrap/Fill/FiveNumberFill';
+
+
 
 // outline Bootestrap
 export { default as ZeroNumberOutLine } from './Bootstrap/outline/ZeroNumberOutLine';
