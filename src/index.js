@@ -10,6 +10,7 @@ export { default as TwoNumberFill } from './Bootstrap/Fill/TwoNumberFill';
 export { default as TwoNumberSqureFill } from './Bootstrap/Fill/TwoNumberSqureFill';
 export { default as ThreeNumberFill } from './Bootstrap/Fill/ThreeNumberFill';
 export { default as ThreeNumberSqureFill } from './Bootstrap/Fill/ThreeNumberSqureFill';
+export { default as FourNumberFill } from './Bootstrap/Fill/FourNumberFill';
 
 
 // outline Bootestrap
