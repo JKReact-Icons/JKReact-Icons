@@ -11,6 +11,7 @@ export { default as TwoNumberSqureFill } from './Bootstrap/Fill/TwoNumberSqureFi
 export { default as ThreeNumberFill } from './Bootstrap/Fill/ThreeNumberFill';
 export { default as ThreeNumberSqureFill } from './Bootstrap/Fill/ThreeNumberSqureFill';
 export { default as FourNumberFill } from './Bootstrap/Fill/FourNumberFill';
+export { default as FourNumberSqureFill } from './Bootstrap/Fill/FourNumberSqureFill';
 
 
 // outline Bootestrap
@@ -23,6 +24,8 @@ export { default as TwoNumberSqureOutline } from './Bootstrap/outline/TwoNumberS
 export { default as ThreeNumberOutline } from './Bootstrap/outline/ThreeNumberOutline';
 export { default as ThreeNumberSqureOutline } from './Bootstrap/outline/ThreeNumberSqureOutline';
 export { default as FourNumberOutline } from './Bootstrap/outline/FourNumberOutline';
+export { default as FourNumberSqureOutline } from './Bootstrap/outline/FourNumberSqureOutline';
+
 
 // Logo Bootstrap
 export { default as LogoAlexa } from './Bootstrap/logos/LogoAlexa';
