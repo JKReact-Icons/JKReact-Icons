@@ -20,7 +20,7 @@ export { default as OneNumberSqureOutLine } from './Bootstrap/outline/OneNumberS
 export { default as TwoNumberOutline } from './Bootstrap/outline/TwoNumberOutline';
 export { default as TwoNumberSqureOutline } from './Bootstrap/outline/TwoNumberSqureOutline';
 export { default as ThreeNumberOutline } from './Bootstrap/outline/ThreeNumberOutline';
-export { default as ThreeNumberOutline } from './Bootstrap/outline/ThreeNumberOutline';
+export { default as ThreeNumberSqureOutline } from './Bootstrap/outline/ThreeNumberSqureOutline';
 
 // Logo Bootstrap
 export { default as LogoAlexa } from './Bootstrap/logos/LogoAlexa';
