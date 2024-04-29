@@ -28,6 +28,10 @@ export { default as ThreeNumberSqureOutline } from './Bootstrap/outline/ThreeNum
 export { default as FourNumberOutline } from './Bootstrap/outline/FourNumberOutline';
 export { default as FourNumberSqureOutline } from './Bootstrap/outline/FourNumberSqureOutline';
 
+export { default as FiveNumberOutline } from './Bootstrap/outline/FiveNumberOutline';
+
+
+
 
 // Logo Bootstrap
 export { default as LogoAlexa } from './Bootstrap/logos/LogoAlexa';
