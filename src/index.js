@@ -37,6 +37,7 @@ export { default as FiveNumberOutline } from './Bootstrap/outline/FiveNumberOutl
 export { default as FiveNumberSqureOutline } from './Bootstrap/outline/FiveNumberSqureOutline';
 export { default as SixNumberOutline } from './Bootstrap/outline/SixNumberOutline';
 export { default as SixNumberSqureOutline } from './Bootstrap/outline/SixNumberSqureOutline';
+export { default as SevenNumberOutline } from './Bootstrap/outline/SevenNumberOutline';
 
 
 // Logo Bootstrap
