@@ -163,17 +163,12 @@ export default IconTest
 | `<LogoBluetooth />` | Logo Bluetooth |
 
 
-
-
-
-
-
-
 ## Versioning of the project :grey_question:
 
 | Version | Description | Release Date|
 |--------|--------|---------|
 | v1.0.0 | initial release of the Project, Adding Bootstrap Icons (Icons, Logos) | 25 April 2024 |
+| v1.1.0 | 2nd release of the Project, Adding Bootstrap Icons (Icons, Logos) | 29 April 2024 |
 
 ## Developers and Designers
 
