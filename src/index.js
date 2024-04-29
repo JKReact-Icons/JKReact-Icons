@@ -22,7 +22,7 @@ export { default as TwoNumberOutline } from './Bootstrap/outline/TwoNumberOutlin
 export { default as TwoNumberSqureOutline } from './Bootstrap/outline/TwoNumberSqureOutline';
 export { default as ThreeNumberOutline } from './Bootstrap/outline/ThreeNumberOutline';
 export { default as ThreeNumberSqureOutline } from './Bootstrap/outline/ThreeNumberSqureOutline';
-
+export { default as FourNumberOutline } from './Bootstrap/outline/FourNumberOutline';
 
 // Logo Bootstrap
 export { default as LogoAlexa } from './Bootstrap/logos/LogoAlexa';
