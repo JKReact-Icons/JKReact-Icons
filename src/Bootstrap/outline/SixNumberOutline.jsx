@@ -16,7 +16,3 @@ const SixNumberOutline = ({ color, size }) => {
 };
 
 export default SixNumberOutline;
-
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-6-circle" viewBox="0 0 16 16">
-  
-</svg>
