@@ -94,24 +94,6 @@ export default IconTest
 | `<OneNumberOutline />` | One number Outline |
 | `<OneNumberSqureOutLine />` | One number Squre Outline |
 
-- v1.1.0 - 28 April 2024
-
-| Icons | Description |
-|--------|--------|
-| `<ZeroNumberFill />` | Zero number Fill |
-| `<ZeroNumberSqureFill />` | Zero number Squre Fill |
-| `<OneNumberFill />` | One number Fill |
-| `<OneNumberSqureFill />` | One number Squre Fill |
-| `<OneTwoThree />` | 1,2,3 |
-| `<ZeroNumberOutLine />` | Zero number Outline |
-| `<ZeroNumberSqureOutLine />` | Zero number Squre Outline |
-| `<OneNumberOutline />` | One number Outline |
-| `<OneNumberSqureOutLine />` | One number Squre Outline |
-
-
-
-
-
 ### Logos Bootstrap
 
 | Icons | Description |
@@ -120,6 +102,33 @@ export default IconTest
 | `<LogoAlipay />` | Logo Alipay |
 | `<LogoAmazon />` | Logo Amazon |
 | `<LogoAmd />` | Logo Amd |
+
+
+### v1.1.0 - 28 April 2024
+
+| Icons | Description |
+|--------|--------|
+| `<TwoNumberFill />` | Two number Fill |
+| `<TwoNumberSqureFill />` | Two number Squre Fill |
+| `<ThreeNumberFill />` | Three number Fill |
+| `<ThreeNumberSqureFill />` | Three number Squre Fill |
+| `<FourNumberFill />` | Four number Fill |
+| `<FourNumberSqureFill />` | Four number Squre Fill |
+| `<FiveNumberFill />` | Five number Fill |
+| `<FiveNumberSqureFill />` | Five number Squre Fill |
+| `<SixNumberFill />` | Six number Fill |
+| `<SixNumberSqureFill />` | Six number Squre Fill |
+| `<SevenNumberFill />` | Seven number Fill |
+| `<SevenNumberSqureFill />` | Seven number Squre Fill |
+| `<EightNumberFill />` | Eight number Fill |
+| `<EightNumberSqureFill />` | Eight number Squre Fill |
+| `<NineNumberFill />` | Nine number Fill |
+| `<NineNumberSqureFill />` | Nine number Squre Fill |
+
+
+
+
+
 
 
 
