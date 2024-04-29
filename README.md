@@ -105,6 +105,7 @@ export default IconTest
 | `<LogoAmazon />` | Logo Amazon |
 | `<LogoAmd />` | Logo Amd |
 
+<hr>
 
 ### v1.1.0 - 28 April 2024
 
