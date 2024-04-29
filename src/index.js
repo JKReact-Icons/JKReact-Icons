@@ -57,5 +57,7 @@ export { default as LogoAndroid } from './Bootstrap/logos/LogoAndroid';
 export { default as LogoAndroidTwo } from './Bootstrap/logos/LogoAndroidTwo';
 export { default as LogoBehance } from './Bootstrap/logos/LogoBehance';
 export { default as LogoBing } from './Bootstrap/logos/LogoBing';
+export { default as LogoBluetooth } from './Bootstrap/logos/LogoBluetooth';
+
 
 // ---------------------- Bootestap END -------------------------
