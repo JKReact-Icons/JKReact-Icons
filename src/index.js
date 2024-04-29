@@ -8,6 +8,7 @@ export { default as OneNumberSqureFill } from './Bootstrap/Fill/OneNumberSqureFi
 export { default as OneTwoThree } from './Bootstrap/Fill/OneTwoThree';
 export { default as TwoNumberFill } from './Bootstrap/Fill/TwoNumberFill';
 export { default as TwoNumberSqureFill } from './Bootstrap/Fill/TwoNumberSqureFill';
+export { default as ThreeNumberFill } from './Bootstrap/Fill/ThreeNumberFill';
 
 
 // outline Bootestrap
@@ -17,6 +18,7 @@ export { default as OneNumberOutline } from './Bootstrap/outline/OneNumberOutlin
 export { default as OneNumberSqureOutLine } from './Bootstrap/outline/OneNumberSqureOutLine';
 export { default as TwoNumberOutline } from './Bootstrap/outline/TwoNumberOutline';
 export { default as TwoNumberSqureOutline } from './Bootstrap/outline/TwoNumberSqureOutline';
+export { default as ThreeNumberOutline } from './Bootstrap/outline/ThreeNumberOutline';
 
 
 // Logo Bootstrap
