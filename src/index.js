@@ -23,6 +23,7 @@ export { default as SevenNumberSqureFill } from './Bootstrap/Fill/SevenNumberSqu
 export { default as EightNumberFill } from './Bootstrap/Fill/EightNumberFill';
 export { default as EightNumberSqureFill } from './Bootstrap/Fill/EightNumberSqureFill';
 export { default as NineNumberFill } from './Bootstrap/Fill/NineNumberFill';
+export { default as NineNumberSqureFill } from './Bootstrap/Fill/NineNumberSqureFill';
 
 
 // outline Bootestrap
