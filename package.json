@@ -1,6 +1,6 @@
 {
   "name": "@jehankandy/jkreact-icons",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Icons for React",
   "main": "src/index.js",
   "scripts": {
