@@ -106,6 +106,8 @@ export default IconTest
 
 ### v1.1.0 - 28 April 2024
 
+- Fill Numbers
+
 | Icons | Description |
 |--------|--------|
 | `<TwoNumberFill />` | Two number Fill |
@@ -125,7 +127,26 @@ export default IconTest
 | `<NineNumberFill />` | Nine number Fill |
 | `<NineNumberSqureFill />` | Nine number Squre Fill |
 
+- outLine Numbers
 
+| Icons | Description |
+|--------|--------|
+| `<TwoNumberFill />` | Two number Fill |
+| `<TwoNumberSqureFill />` | Two number Squre Fill |
+| `<ThreeNumberFill />` | Three number Fill |
+| `<ThreeNumberSqureFill />` | Three number Squre Fill |
+| `<FourNumberFill />` | Four number Fill |
+| `<FourNumberSqureFill />` | Four number Squre Fill |
+| `<FiveNumberFill />` | Five number Fill |
+| `<FiveNumberSqureFill />` | Five number Squre Fill |
+| `<SixNumberFill />` | Six number Fill |
+| `<SixNumberSqureFill />` | Six number Squre Fill |
+| `<SevenNumberFill />` | Seven number Fill |
+| `<SevenNumberSqureFill />` | Seven number Squre Fill |
+| `<EightNumberFill />` | Eight number Fill |
+| `<EightNumberSqureFill />` | Eight number Squre Fill |
+| `<NineNumberFill />` | Nine number Fill |
+| `<NineNumberSqureFill />` | Nine number Squre Fill |
 
 
 
