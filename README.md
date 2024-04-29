@@ -94,6 +94,23 @@ export default IconTest
 | `<OneNumberOutline />` | One number Outline |
 | `<OneNumberSqureOutLine />` | One number Squre Outline |
 
+- v1.1.0 - 28 April 2024
+
+| Icons | Description |
+|--------|--------|
+| `<ZeroNumberFill />` | Zero number Fill |
+| `<ZeroNumberSqureFill />` | Zero number Squre Fill |
+| `<OneNumberFill />` | One number Fill |
+| `<OneNumberSqureFill />` | One number Squre Fill |
+| `<OneTwoThree />` | 1,2,3 |
+| `<ZeroNumberOutLine />` | Zero number Outline |
+| `<ZeroNumberSqureOutLine />` | Zero number Squre Outline |
+| `<OneNumberOutline />` | One number Outline |
+| `<OneNumberSqureOutLine />` | One number Squre Outline |
+
+
+
+
 
 ### Logos Bootstrap
 
