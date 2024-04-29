@@ -110,22 +110,22 @@ export default IconTest
 
 | Icons | Description |
 |--------|--------|
-| `<TwoNumberOutline />` | One number Squre Outline |
-| `<TwoNumberSqureOutline />` | One number Squre Outline |
-| `<ThreeNumberOutline />` | One number Squre Outline |
-| `<ThreeNumberSqureOutline />` | One number Squre Outline |
-| `<FourNumberOutline />` | One number Squre Outline |
-| `<FourNumberSqureOutline />` | One number Squre Outline |
-| `<FiveNumberOutline />` | One number Squre Outline |
-| `<FiveNumberSqureOutline />` | One number Squre Outline |
-| `<SixNumberOutline />` | One number Squre Outline |
-| `<SixNumberSqureOutline />` | One number Squre Outline |
-| `<SevenNumberOutline />` | One number Squre Outline |
-| `<SevenNumberSqureOutline />` | One number Squre Outline |
-| `<EightNumberOutline />` | One number Squre Outline |
-| `<EightNumberSqureOutline />` | One number Squre Outline |
-| `<NineNumberOutline />` | One number Squre Outline |
-| `<NineNumberSqureOutline />` | One number Squre Outline |
+| `<TwoNumberOutline />` | Two number Squre Outline |
+| `<TwoNumberSqureOutline />` | Two number Squre Outline |
+| `<ThreeNumberOutline />` | Three number Squre Outline |
+| `<ThreeNumberSqureOutline />` | Three number Squre Outline |
+| `<FourNumberOutline />` | Four number Squre Outline |
+| `<FourNumberSqureOutline />` | Four number Squre Outline |
+| `<FiveNumberOutline />` | Five number Squre Outline |
+| `<FiveNumberSqureOutline />` | Five number Squre Outline |
+| `<SixNumberOutline />` | Six number Squre Outline |
+| `<SixNumberSqureOutline />` | Six number Squre Outline |
+| `<SevenNumberOutline />` | Seven number Squre Outline |
+| `<SevenNumberSqureOutline />` | Seven number Squre Outline |
+| `<EightNumberOutline />` | Eight number Squre Outline |
+| `<EightNumberSqureOutline />` | Eight number Squre Outline |
+| `<NineNumberOutline />` | Nine number Squre Outline |
+| `<NineNumberSqureOutline />` | Nine number Squre Outline |
 
 - outLine Numbers
 
