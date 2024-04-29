@@ -53,6 +53,7 @@ export { default as LogoAlexa } from './Bootstrap/logos/LogoAlexa';
 export { default as LogoAlipay } from './Bootstrap/logos/LogoAlipay';
 export { default as LogoAmazon } from './Bootstrap/logos/LogoAmazon';
 export { default as LogoAmd } from './Bootstrap/logos/LogoAmd';
+export { default as LogoAndroid } from './Bootstrap/logos/LogoAndroid';
 
 
 // ---------------------- Bootestap END -------------------------
