@@ -80,7 +80,7 @@ export default IconTest
 
 ## Bootstrap
 
-### v1.0.0 - April 2024
+### v1.0.0 - 25 April 2024
 
 - Icons Bootstrap
 
