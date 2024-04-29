@@ -18,6 +18,8 @@ export { default as FiveNumberFill } from './Bootstrap/Fill/FiveNumberFill';
 export { default as FiveNumberSqureFill } from './Bootstrap/Fill/FiveNumberSqureFill';
 export { default as SixNumberFill } from './Bootstrap/Fill/SixNumberFill';
 export { default as SixNumberSqureFill } from './Bootstrap/Fill/SixNumberSqureFill';
+export { default as SevenNumberFill } from './Bootstrap/Fill/SevenNumberFill';
+
 
 
 // outline Bootestrap
