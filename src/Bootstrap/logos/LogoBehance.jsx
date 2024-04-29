@@ -17,5 +17,3 @@ const LogoApple = ({ color, size }) => {
 };
 
 export default LogoApple;
-
-
