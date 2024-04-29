@@ -45,6 +45,7 @@ export { default as SevenNumberOutline } from './Bootstrap/outline/SevenNumberOu
 export { default as SevenNumberSqureOutline } from './Bootstrap/outline/SevenNumberSqureOutline';
 export { default as EightNumberOutline } from './Bootstrap/outline/EightNumberOutline';
 export { default as EightNumberSqureOutline } from './Bootstrap/outline/EightNumberSqureOutline';
+export { default as NineNumberOutline } from './Bootstrap/outline/NineNumberOutline';
 
 
 
