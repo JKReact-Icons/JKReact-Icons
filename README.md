@@ -151,7 +151,15 @@ export default IconTest
 | `<NineNumberOutline />` | Nine number Outline |
 | `<NineNumberSqureOutline />` | Nine number Squre Outline |
 
+- Logos Bootstrap
 
+| Icons | Description |
+|--------|--------|
+| `<LogoAndroid />` | Logo Android |
+| `<LogoAndroidTwo />` | Logo Android Two |
+| `<LogoBehance />` | Logo Behance |
+| `<LogoBing />` | Logo Bing |
+| `<LogoBluetooth />` | Logo Bluetooth |
 
 
 
