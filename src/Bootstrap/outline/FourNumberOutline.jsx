@@ -1,7 +1,7 @@
 // 1 circle outline
 import React from 'react';
 
-const ThreeNumberOutline = ({ color, size }) => {
+const FourNumberOutline = ({ color, size }) => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -16,6 +16,6 @@ const ThreeNumberOutline = ({ color, size }) => {
   );
 };
 
-export default ThreeNumberOutline;
+export default FourNumberOutline;
 
 
