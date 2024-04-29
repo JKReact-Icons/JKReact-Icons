@@ -32,7 +32,7 @@ export { default as FourNumberOutline } from './Bootstrap/outline/FourNumberOutl
 export { default as FourNumberSqureOutline } from './Bootstrap/outline/FourNumberSqureOutline';
 
 export { default as FiveNumberOutline } from './Bootstrap/outline/FiveNumberOutline';
-
+export { default as FiveNumberSqureOutline } from './Bootstrap/outline/FiveNumberSqureOutline';
 
 
 
