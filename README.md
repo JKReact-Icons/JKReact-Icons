@@ -80,7 +80,9 @@ export default IconTest
 
 ## Bootstrap
 
-### Icons Bootstrap
+### v1.0.0 - April 2024
+
+- Icons Bootstrap
 
 | Icons | Description |
 |--------|--------|
@@ -94,7 +96,7 @@ export default IconTest
 | `<OneNumberOutline />` | One number Outline |
 | `<OneNumberSqureOutLine />` | One number Squre Outline |
 
-### Logos Bootstrap
+- Logos Bootstrap
 
 | Icons | Description |
 |--------|--------|
@@ -107,27 +109,6 @@ export default IconTest
 ### v1.1.0 - 28 April 2024
 
 - Fill Numbers
-
-| Icons | Description |
-|--------|--------|
-| `<TwoNumberOutline />` | Two number Squre Outline |
-| `<TwoNumberSqureOutline />` | Two number Squre Outline |
-| `<ThreeNumberOutline />` | Three number Squre Outline |
-| `<ThreeNumberSqureOutline />` | Three number Squre Outline |
-| `<FourNumberOutline />` | Four number Squre Outline |
-| `<FourNumberSqureOutline />` | Four number Squre Outline |
-| `<FiveNumberOutline />` | Five number Squre Outline |
-| `<FiveNumberSqureOutline />` | Five number Squre Outline |
-| `<SixNumberOutline />` | Six number Squre Outline |
-| `<SixNumberSqureOutline />` | Six number Squre Outline |
-| `<SevenNumberOutline />` | Seven number Squre Outline |
-| `<SevenNumberSqureOutline />` | Seven number Squre Outline |
-| `<EightNumberOutline />` | Eight number Squre Outline |
-| `<EightNumberSqureOutline />` | Eight number Squre Outline |
-| `<NineNumberOutline />` | Nine number Squre Outline |
-| `<NineNumberSqureOutline />` | Nine number Squre Outline |
-
-- outLine Numbers
 
 | Icons | Description |
 |--------|--------|
@@ -147,6 +128,32 @@ export default IconTest
 | `<EightNumberSqureFill />` | Eight number Squre Fill |
 | `<NineNumberFill />` | Nine number Fill |
 | `<NineNumberSqureFill />` | Nine number Squre Fill |
+
+
+- outLine Numbers
+
+| Icons | Description |
+|--------|--------|
+| `<TwoNumberOutline />` | Two number Outline |
+| `<TwoNumberSqureOutline />` | Two number Squre Outline |
+| `<ThreeNumberOutline />` | Three number Outline |
+| `<ThreeNumberSqureOutline />` | Three number Squre Outline |
+| `<FourNumberOutline />` | Four number Outline |
+| `<FourNumberSqureOutline />` | Four number Squre Outline |
+| `<FiveNumberOutline />` | Five number Outline |
+| `<FiveNumberSqureOutline />` | Five number Squre Outline |
+| `<SixNumberOutline />` | Six number Outline |
+| `<SixNumberSqureOutline />` | Six number Squre Outline |
+| `<SevenNumberOutline />` | Seven number Outline |
+| `<SevenNumberSqureOutline />` | Seven number Squre Outline |
+| `<EightNumberOutline />` | Eight number Outline |
+| `<EightNumberSqureOutline />` | Eight number Squre Outline |
+| `<NineNumberOutline />` | Nine number Outline |
+| `<NineNumberSqureOutline />` | Nine number Squre Outline |
+
+
+
+
 
 
 
