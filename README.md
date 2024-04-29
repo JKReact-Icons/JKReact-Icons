@@ -78,7 +78,7 @@ export default IconTest
 |--------|--------|
 | Bootstrap | [Bootstrap Icons](https://icons.getbootstrap.com/) |
 
-## Bootstrap
+## Versions
 
 ### v1.0.0 - 25 April 2024
 
