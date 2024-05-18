@@ -78,6 +78,7 @@ export { default as ActivityIcon } from './Bootstrap/v120/Others/ActivityIcon';
 export { default as AlignBottom } from './Bootstrap/v120/Others/AlignBottom';
 export { default as AlignCenter } from './Bootstrap/v120/Others/AlignCenter';
 export { default as AlignEnd } from './Bootstrap/v120/Others/AlignEnd';
+export { default as AlignMiddle } from './Bootstrap/v120/Others/AlignMiddle';
 
 // logos
 
