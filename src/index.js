@@ -64,6 +64,7 @@ export { default as LogoBluetooth } from './Bootstrap/logos/LogoBluetooth';
 // Fill
 export { default as AirplaneFill } from './Bootstrap/v120/Fill/AirplaneFill';
 export { default as AirplaneEnginesFill } from './Bootstrap/v120/Fill/AirplaneEnginesFill';
+export { default as AlarmFill } from './Bootstrap/v120/Fill/AlarmFill';
 
 // Outline
 
