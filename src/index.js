@@ -80,6 +80,7 @@ export { default as AlignCenter } from './Bootstrap/v120/Others/AlignCenter';
 export { default as AlignEnd } from './Bootstrap/v120/Others/AlignEnd';
 export { default as AlignMiddle } from './Bootstrap/v120/Others/AlignMiddle';
 export { default as AlignStart } from './Bootstrap/v120/Others/AlignStart';
+export { default as AlignTop } from './Bootstrap/v120/Others/AlignTop';
 
 // logos
 
