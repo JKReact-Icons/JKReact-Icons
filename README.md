@@ -169,6 +169,7 @@ export default IconTest
 |--------|--------|---------|
 | v1.0.0 | initial release of the Project, Adding Bootstrap Icons (Icons, Logos) | 25 April 2024 |
 | v1.1.0 | 2nd release of the Project, Adding Bootstrap Icons (Icons, Logos) | 29 April 2024 |
+| v1.2.0 | 3rd release of the Project, Adding Bootstrap Icons (Icons, Logos) | 18 May 2024 |
 
 ## Developers and Designers
 
