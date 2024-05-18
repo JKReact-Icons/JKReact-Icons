@@ -1,6 +1,6 @@
 import React from 'react';
 
-const ActivityIcon = ({ color, size }) => {
+const AirplaneOutLine = ({ color, size }) => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -14,5 +14,5 @@ const ActivityIcon = ({ color, size }) => {
   );
 };
 
-export default ActivityIcon;
+export default AirplaneOutLine;
 

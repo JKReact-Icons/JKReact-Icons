@@ -65,9 +65,11 @@ export { default as LogoBluetooth } from './Bootstrap/logos/LogoBluetooth';
 
 // Outline
 
+export { default as AirplaneOutLine } from './Bootstrap/v120/Outline/AirplaneOutLine';
+
 // others
 
-export { default as ActivityIcon } from './Bootstrap/v120/Others/ActivityIcon'
+export { default as ActivityIcon } from './Bootstrap/v120/Others/ActivityIcon';
 
 // logos
 
