@@ -171,11 +171,19 @@ export default IconTest
 | Icons | Description |
 |--------|--------|
 | `<AirplaneFill />` | Airplane Fill |
-| `<AirplaneFill />` | Airplane Fill |
-| `<AirplaneFill />` | Airplane Fill |
-| `<AirplaneFill />` | Airplane Fill |
-| `<AirplaneFill />` | Airplane Fill |
-| `<AirplaneFill />` | Airplane Fill |
+| `<AirplaneEnginesFill />` | Airplane Engines Fill |
+| `<AlarmFill />` | Alarm Fill |
+| `<AirplaneOutLine />` | Airplane OutLine |
+| `<AirplaneEnginesOutLine />` | Airplane Engines OutLine |
+| `<AlarmOutLine />` | Alarm OutLine |
+| `<ActivityIcon />` | Activity Icon |
+| `<AlignBottom />` | Align Bottom |
+| `<AlignCenter />` | Align Center |
+| `<AlignEnd />` | Align End |
+| `<AlignMiddle />` | Align Middle |
+| `<AlignStart />` | Align Start |
+| `<AlignTop />` | Align Top |
+
 
 - Logos Bootstrap
 
