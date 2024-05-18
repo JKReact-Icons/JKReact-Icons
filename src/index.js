@@ -75,6 +75,7 @@ export { default as AlarmOutLine } from './Bootstrap/v120/Outline/AlarmOutLine';
 // others
 
 export { default as ActivityIcon } from './Bootstrap/v120/Others/ActivityIcon';
+export { default as AlignBottom } from './Bootstrap/v120/Others/AlignBottom';
 
 // logos
 
