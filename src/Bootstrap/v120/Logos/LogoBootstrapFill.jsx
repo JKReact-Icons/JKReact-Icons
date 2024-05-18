@@ -1,6 +1,6 @@
 import React from 'react';
 
-const LogoBootstrap = ({ color, size }) => {
+const LogoBootstrapFill = ({ color, size }) => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -15,4 +15,4 @@ const LogoBootstrap = ({ color, size }) => {
   );
 };
 
-export default LogoBootstrap;
+export default LogoBootstrapFill;
