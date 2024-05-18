@@ -46,7 +46,7 @@ export { default as NineNumberOutline } from './Bootstrap/outline/NineNumberOutl
 export { default as NineNumberSqureOutline } from './Bootstrap/outline/NineNumberSqureOutline';
 
 // Other Icons
-export { default as ActivityIcon } from './Bootstrap/Others/ActivityIcon';
+
 
 // Logo Bootstrap
 export { default as LogoAlexa } from './Bootstrap/logos/LogoAlexa';
