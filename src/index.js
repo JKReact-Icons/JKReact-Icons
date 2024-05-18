@@ -69,6 +69,7 @@ export { default as AirplaneEnginesFill } from './Bootstrap/v120/Fill/AirplaneEn
 
 export { default as AirplaneOutLine } from './Bootstrap/v120/Outline/AirplaneOutLine';
 export { default as AirplaneEnginesOutLine } from './Bootstrap/v120/Outline/AirplaneEnginesOutLine';
+export { default as AlarmOutLine } from './Bootstrap/v120/Outline/AlarmOutLine';
 
 // others
 
