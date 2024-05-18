@@ -45,8 +45,6 @@ export { default as EightNumberSqureOutline } from './Bootstrap/outline/EightNum
 export { default as NineNumberOutline } from './Bootstrap/outline/NineNumberOutline';
 export { default as NineNumberSqureOutline } from './Bootstrap/outline/NineNumberSqureOutline';
 
-// Other Icons
-
 
 // Logo Bootstrap
 export { default as LogoAlexa } from './Bootstrap/logos/LogoAlexa';
@@ -60,5 +58,17 @@ export { default as LogoBing } from './Bootstrap/logos/LogoBing';
 export { default as LogoBluetooth } from './Bootstrap/logos/LogoBluetooth';
 
 // btafter
+
+
+// v1.2.0
+// Fill
+
+// Outline
+
+// others
+
+export { default as ActivityIcon } from './Bootstrap/v120/Others/ActivityIcon'
+
+// logos
 
 // ---------------------- Bootestap END -------------------------
