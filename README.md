@@ -189,11 +189,11 @@ export default IconTest
 
 | Icons | Description |
 |--------|--------|
-| `<LogoAndroid />` | Logo Android |
-| `<LogoAndroidTwo />` | Logo Android Two |
+| `<LogoBootstrap />` | Logo Bootstrap |
+| `<LogoBootstrapFill />` | Logo Bootstrap Fill |
 | `<LogoBehance />` | Logo Behance |
-| `<LogoBing />` | Logo Bing |
-| `<LogoBluetooth />` | Logo Bluetooth |
+| `<LogoBootstrapReboot />` | Logo Bootstrap Reboot |
+| `<LogoBrilliance />` | Logo Brilliance |
 
 
 ## Versioning of the project :grey_question:
