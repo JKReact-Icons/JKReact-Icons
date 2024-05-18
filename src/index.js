@@ -84,4 +84,6 @@ export { default as AlignTop } from './Bootstrap/v120/Others/AlignTop';
 
 // logos
 
+export { default as LogoBootstrap } from './Bootstrap/v120/Logos/LogoBootstrap'; 
+
 // ---------------------- Bootestap END -------------------------
