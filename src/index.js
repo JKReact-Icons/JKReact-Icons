@@ -23,9 +23,6 @@ export { default as EightNumberSqureFill } from './Bootstrap/Fill/EightNumberSqu
 export { default as NineNumberFill } from './Bootstrap/Fill/NineNumberFill';
 export { default as NineNumberSqureFill } from './Bootstrap/Fill/NineNumberSqureFill';
 
-
-
-
 // outline Bootestrap
 export { default as ZeroNumberOutLine } from './Bootstrap/outline/ZeroNumberOutLine';
 export { default as ZeroNumberSqureOutLine } from './Bootstrap/outline/ZeroNumberSqureOutLine';
@@ -48,7 +45,8 @@ export { default as EightNumberSqureOutline } from './Bootstrap/outline/EightNum
 export { default as NineNumberOutline } from './Bootstrap/outline/NineNumberOutline';
 export { default as NineNumberSqureOutline } from './Bootstrap/outline/NineNumberSqureOutline';
 
-
+// Other Icons
+export { default as ActivityIcon } from './Bootstrap/Others/ActivityIcon';
 
 // Logo Bootstrap
 export { default as LogoAlexa } from './Bootstrap/logos/LogoAlexa';
