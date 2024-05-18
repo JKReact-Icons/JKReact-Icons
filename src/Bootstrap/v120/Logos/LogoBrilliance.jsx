@@ -1,6 +1,6 @@
 import React from 'react';
 
-const LogoBootstrapReboot = ({ color, size }) => {
+const LogoBrilliance = ({ color, size }) => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -14,4 +14,4 @@ const LogoBootstrapReboot = ({ color, size }) => {
   );
 };
 
-export default LogoBootstrapReboot;
+export default LogoBrilliance;
