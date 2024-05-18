@@ -162,6 +162,63 @@ export default IconTest
 | `<LogoBing />` | Logo Bing |
 | `<LogoBluetooth />` | Logo Bluetooth |
 
+<hr>
+
+### v1.2.0 - 18 May 2024
+
+- Fill Numbers
+
+| Icons | Description |
+|--------|--------|
+| `<TwoNumberFill />` | Two number Fill |
+| `<TwoNumberSqureFill />` | Two number Squre Fill |
+| `<ThreeNumberFill />` | Three number Fill |
+| `<ThreeNumberSqureFill />` | Three number Squre Fill |
+| `<FourNumberFill />` | Four number Fill |
+| `<FourNumberSqureFill />` | Four number Squre Fill |
+| `<FiveNumberFill />` | Five number Fill |
+| `<FiveNumberSqureFill />` | Five number Squre Fill |
+| `<SixNumberFill />` | Six number Fill |
+| `<SixNumberSqureFill />` | Six number Squre Fill |
+| `<SevenNumberFill />` | Seven number Fill |
+| `<SevenNumberSqureFill />` | Seven number Squre Fill |
+| `<EightNumberFill />` | Eight number Fill |
+| `<EightNumberSqureFill />` | Eight number Squre Fill |
+| `<NineNumberFill />` | Nine number Fill |
+| `<NineNumberSqureFill />` | Nine number Squre Fill |
+
+
+- outLine Numbers
+
+| Icons | Description |
+|--------|--------|
+| `<TwoNumberOutline />` | Two number Outline |
+| `<TwoNumberSqureOutline />` | Two number Squre Outline |
+| `<ThreeNumberOutline />` | Three number Outline |
+| `<ThreeNumberSqureOutline />` | Three number Squre Outline |
+| `<FourNumberOutline />` | Four number Outline |
+| `<FourNumberSqureOutline />` | Four number Squre Outline |
+| `<FiveNumberOutline />` | Five number Outline |
+| `<FiveNumberSqureOutline />` | Five number Squre Outline |
+| `<SixNumberOutline />` | Six number Outline |
+| `<SixNumberSqureOutline />` | Six number Squre Outline |
+| `<SevenNumberOutline />` | Seven number Outline |
+| `<SevenNumberSqureOutline />` | Seven number Squre Outline |
+| `<EightNumberOutline />` | Eight number Outline |
+| `<EightNumberSqureOutline />` | Eight number Squre Outline |
+| `<NineNumberOutline />` | Nine number Outline |
+| `<NineNumberSqureOutline />` | Nine number Squre Outline |
+
+- Logos Bootstrap
+
+| Icons | Description |
+|--------|--------|
+| `<LogoAndroid />` | Logo Android |
+| `<LogoAndroidTwo />` | Logo Android Two |
+| `<LogoBehance />` | Logo Behance |
+| `<LogoBing />` | Logo Bing |
+| `<LogoBluetooth />` | Logo Bluetooth |
+
 
 ## Versioning of the project :grey_question:
 
