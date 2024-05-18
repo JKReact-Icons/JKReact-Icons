@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 const LogoBootstrap = ({ color, size }) => {
@@ -17,5 +16,3 @@ const LogoBootstrap = ({ color, size }) => {
 };
 
 export default LogoBootstrap;
-
-
